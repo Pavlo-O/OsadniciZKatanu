@@ -49,6 +49,7 @@ public class Game {
      * @author xloos
      * @version 1.0.0
      *sdfsdfsdf
+     * snad to bude fungovat
      *
      */
     public boolean endGame(){
